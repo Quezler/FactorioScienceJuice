@@ -6,3 +6,6 @@ Version 1.0.1 - August 6, 2017
 ------------------------------
 Rename Black to Grey science juice.
 
+Version 1.0.2 - August 6, 2017
+------------------------------
+Load locale under correct namespace.

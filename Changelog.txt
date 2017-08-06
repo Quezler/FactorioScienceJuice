@@ -1,0 +1,3 @@
+Version 1.0.0 - August 6, 2017
+------------------------------
+Initial release; lets get those juices flowing!

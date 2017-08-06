@@ -1,0 +1,9 @@
+{
+  "name": "ScienceJuice",
+  "version": "1.0.0",
+  "factorio_version": "0.15",
+  "title": "ScienceJuice",
+  "author": "Quezler",
+  "dependencies": ["base >= 0.15.0"],
+  "description": "Renames all Science Packs to Science Juice, sounds fun when you're in a voice call with friends when discussing resarch requirements."
+}
